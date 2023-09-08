@@ -13,6 +13,10 @@ Create a robust and versatile social media backend application that empowers use
 
   ## Demo
 
+
+https://github.com/xJuanPablo/Social-ApI/assets/135268267/06e4a523-d667-431a-bb0e-b19f9b57ee71
+
+
   ## Installation
 You can employ this backend code by following these steps:
 
@@ -22,7 +26,7 @@ You can employ this backend code by following these steps:
 4. Put the routes into an application such as ```insomnia```
 
 ## Usage
-To use this application, use ```insomnia```, or any similar application and run the routes provided after running ```npm start``` in the application to start the server.
+To use this application, use ```insomnia``` or any similar application and run the routes provided after running ```npm start``` in the application to start the server.
 
 ## Contributing
 If you're interested in contributing to this application, feel free to fork the repository and introduce any enhancements you deem valuable.
